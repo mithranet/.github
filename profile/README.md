@@ -1,4 +1,4 @@
-![MITHRA Banner](https://github.com/mithranet/.github/blob/main/profile/mithra-banner.png)
+![MITHRA Banner](https://github.com/mithranet/.github/blob/main/profile/mithra-banner-general.png)
 
 # 🧭 Our Mission
 
